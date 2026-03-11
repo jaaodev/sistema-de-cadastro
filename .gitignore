@@ -1,0 +1,22 @@
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+*.iws
+out/
+
+
+# --- Logs & temporários ---
+*.log
+*.tmp
+*.swp
+*.swo
+
+
+# --- SO (Windows / macOS) ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
