@@ -1,4 +1,4 @@
-# Exercícios em Java ☕️ 
+# Sistema de cadastros 
 
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
@@ -6,18 +6,19 @@
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![Contributions](https://img.shields.io/badge/Contribuições-Bem%20vindas-orange)
 
-Este repositório contém uma coleção de exercícios desenvolvidos em Java com foco em lógica de programação e fundamentos da linguagem.  
-O objetivo é praticar conceitos básicos e intermediários de programação, como:
+Este repositório contém o projeto de um sistema de cadastros que estou desenvolvendo e atualizando conforme vou aprimorando minhas habilidades.  
 
-- Estruturas de controle (condicionais e loops)  
-- Manipulação de variáveis e tipos de dados  
-- Funções, métodos e construtores  
-- Encapsulamento com getters e setters  
-- Organização de código em pacotes e classes  
+## Conceitos básicos e intermediários de programação utilizados:
 
+- Estruturas de repetição e estruturas condicionais.
+- Métodos
+- Associação
+- Construtores
+- Get e Set
+- Scanner
+  
 ## Estrutura do projeto
-Os exercícios estão organizados em pacotes dentro da pasta javacore, cada um abordando diferentes tópicos da linguagem.
-
+O projeto tem dois packages dentro da pasta projeto, o domain contém as classes e o test contém o inicializador do projeto.
 
 ## Objetivo
-Este repositório serve como prática pessoal e também como material de estudo para quem está começando com Java e deseja reforçar a lógica de programação.
+O meu objetivo é ir evoluindo o projeto conforme eu vou adquirindo conhecimento sobre novos conceitos e novas ferramentas.
